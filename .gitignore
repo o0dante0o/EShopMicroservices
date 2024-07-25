@@ -1,0 +1,85 @@
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración local de IDE
+.vscode/
+.idea/
+
+# Archivos de construcción de .NET
+bin/
+obj/
+
+# Archivos de configuración y caché de usuario
+*.user
+*.rsuser
+*.suo
+
+# Archivos de configuración de VSCode
+.vscode/
+
+# Archivos de configuración de Rider
+.idea/
+
+# Archivos de depuración y caché
+*.log
+*.cache
+*.temp
+*.pdb
+
+# Configuración de Docker
+docker-compose.override.yml
+
+# Archivos generados por NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# Archivos de entorno
+.env
+
+# Archivos de cobertura de código
+coverage/
+coverage*.json
+coverage*.xml
+coverage*.html
+
+# Archivos de Test Results
+TestResults/
+*.trx
+*.coverage
+
+# Archivos de configuración de sistema
+.vs/
+
+# Archivos temporales y de bloqueo
+*.lock
+*.tmp
+*.temp
+
+# Archivos de compilación local
+project.lock.json
+project.fragment.lock.json
+
+# Archivos de Node.js (si usas Node.js en tu proyecto)
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Archivos generados por el sistema operativo Windows
+$RECYCLE.BIN/
+
+# Archivos generados por el sistema operativo MacOS
+._*
+
+# Archivos generados por el sistema operativo Linux
+*~
+
+# Directorios de publicación
+publish/
+
